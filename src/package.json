@@ -1,11 +1,11 @@
 {
   "$schema": "../node_modules/ng-packagr/package.schema.json",
-  "name": "@ng-select/ng-select",
+  "name": "@ngx-select-v1/ngx-select-v1",
   "version": "1.6.3",
-  "description": "Angular ng-select - All in One UI Select, Multiselect and Autocomplete",
-  "author": "@ng-select/ng-select",
+  "description": "Angular ngx-select-v1 - All in One UI Select, Multiselect and Autocomplete",
+  "author": "@ngx-select-v1/ngx-select-v1",
   "license": "MIT",
-  "repository": "git@github.com:ng-select/ng-select.git",
+  "repository": "git@github.com:sayedayman203/ngx-select-v1.git",
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
