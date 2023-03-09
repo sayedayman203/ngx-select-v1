@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/ng-packagr/package.schema.json",
   "name": "@ngx-select-v1/ngx-select-v1",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "description": "Angular ngx-select-v1 - All in One UI Select, Multiselect and Autocomplete",
   "author": "@ngx-select-v1/ngx-select-v1",
   "license": "MIT",
@@ -27,7 +27,7 @@
   },
   "ngPackage": {
     "lib": {
-      "flatModuleFile": "ng-select",
+      "flatModuleFile": "ngx-select-v1",
       "entryFile": "index.ts"
     },
     "dest": "../dist"
