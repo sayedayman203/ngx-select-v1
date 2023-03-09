@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.6.4"></a>
+## [1.6.4](https://github.com/sayedayman203/ngx-select-v1/compare/v1.6.3...v1.6.4) (2023-03-09)
+
+
+
 <a name="1.6.3"></a>
 ## [1.6.3](https://github.com/ng-select/ng-select/compare/v1.6.2...v1.6.3) (2018-11-06)
 
